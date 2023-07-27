@@ -15,19 +15,19 @@
 <br>
 <br>
 
----
+
 
 <h1 align="center">Purpose</h1>
 
----
+
 
 <p align="center">We want to develop an innovative biological-silicon hybrid computer, integrating a large human brain organoid, a bacterial neural interface, and a traditional silicon computer, to usher in a new era of superintelligence</p>
 
----
+
 
 <h1 align="center">Explanation</h1>
 
----
+
 
 In the forefront of interdisciplinary research, spanning across the fields of neurobiology, microbiology, and computer science, a groundbreaking concept is taking shape: the biological-silicon hybrid computer. This novel idea weaves together the bioelectrical attributes of living organisms with the computational capabilities of silicon-based electronics. This unique collaboration between life and machine marks a transformative moment in the realms of biocomputing and artificial intelligence (AI).
 

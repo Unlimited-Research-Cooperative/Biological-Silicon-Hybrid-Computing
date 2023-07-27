@@ -19,7 +19,7 @@
 <h1 align="center">Purpose</h1>
 
 <p align="center">We want to develop an innovative biological-silicon hybrid computer, integrating a large human brain organoid, a bacterial neural interface, and a traditional silicon computer, to usher in a new era of superintelligence</p>
-
+---
 <h1 align="center">Explanation</h1>
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">Bio-Silicon Confluence: Constructing the Biological-Silicon Hybrid Computer
+<h1 align="center">Bio-Silicon Confluence: Constructing the Biological-Silicon Hybrid Computer</h1>
 
 <div align="center">
   <a href="https://discord.gg/HBHGvDxDmt">
@@ -6,13 +6,11 @@
   </a>
 </div>
 
-
 <div align="center">
   <a href="https://www.tiktok.com/@metaversecrowdsourcebr">
     <img src="https://img.shields.io/badge/TikTok-%40metaversecrowdsourcebr-ff0080?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" alt="TikTok Profile">
   </a>
 </div>
-
 
 <br>
 <br>

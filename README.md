@@ -1,5 +1,9 @@
 <h1 align="center">Bio-Silicon Confluence: Constructing the Biological-Silicon Hybrid Computer</h1>
-
+<div align="center">
+  <a href="https://discord.gg/mJECK72VhD">
+    <img src="https://img.shields.io/static/v1?label=Unlimited%20Research%20Cooperative&message=Join%20Now&color=7289DA&logo=discord&style=for-the-badge" alt="Discord server">
+  </a>
+</div>
 <div align="center">
   <a href="https://discord.gg/HBHGvDxDmt">
     <img src="https://img.shields.io/static/v1?label=Metaverse%20Crowdsource&message=450%20Members&color=7289DA&logo=discord&style=for-the-badge" alt="Discord server">
